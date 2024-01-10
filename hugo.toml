@@ -1,4 +1,4 @@
-baseURL = "https://examnple.com/"
+baseURL = "http://localhost/"
 title = "Hugo Theme Tailwind Example Site"
 author = "Dylan M & Regis"
 copyright = "Dylan M & Regis"
@@ -9,10 +9,10 @@ theme = "tailwind"
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "/posts"
 
   [params.header]
-    logo = "logo.webp"
+    logo = "/images/Logo.png"
 
   [params.footer]
     since = 2023

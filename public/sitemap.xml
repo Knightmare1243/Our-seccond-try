@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examnple.com/categories/</loc>
+    <loc>http://localhost/</loc>
+    <lastmod>2024-01-01T12:17:02+00:00</lastmod>
   </url><url>
-    <loc>https://examnple.com/</loc>
+    <loc>http://localhost/post/</loc>
+    <lastmod>2024-01-01T12:17:02+00:00</lastmod>
   </url><url>
-    <loc>https://examnple.com/tags/</loc>
+    <loc>http://localhost/post/the-first-artical/</loc>
+    <lastmod>2024-01-01T12:17:02+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost/categories/</loc>
+  </url><url>
+    <loc>http://localhost/series/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
   </url>
 </urlset>
